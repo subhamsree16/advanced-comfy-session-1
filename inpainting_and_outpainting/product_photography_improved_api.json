@@ -213,11 +213,7 @@
             "interpolation": "nearest",
             "method": "keep proportion",
             "condition": "always",
-            "multiple_of": 0,
-            "image": [
-                "65",
-                0
-            ]
+            "multiple_of": 0
         },
         "class_type": "ImageResize+",
         "_meta": {
@@ -531,12 +527,7 @@
         }
     },
     "47": {
-        "inputs": {
-            "text": [
-                "66",
-                0
-            ]
-        },
+        "inputs": {},
         "class_type": "Text Multiline",
         "_meta": {
             "title": "Positive Prompt"
@@ -756,44 +747,6 @@
         "class_type": "SaveImage",
         "_meta": {
             "title": "Save Image"
-        }
-    },
-    "64": {
-        "inputs": {
-            "filename_prefix": "FlowScale",
-            "format": "png",
-            "label": "Output Image",
-            "quality": 95,
-            "lossless": false,
-            "images": [
-                "58",
-                0
-            ]
-        },
-        "class_type": "FSSaveImage",
-        "_meta": {
-            "title": "[FS]⚡Save Image (Output)"
-        }
-    },
-    "65": {
-        "inputs": {
-            "image": "example.png",
-            "upload": "image",
-            "label": "Input Product Image"
-        },
-        "class_type": "FSLoadImage",
-        "_meta": {
-            "title": "[FS]⚡Load Image (Input)"
-        }
-    },
-    "66": {
-        "inputs": {
-            "default_value": "",
-            "label": "Background Prompt"
-        },
-        "class_type": "FSLoadText",
-        "_meta": {
-            "title": "[FS]⚡Load Text (Input)"
         }
     }
 }
