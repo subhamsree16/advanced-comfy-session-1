@@ -82,7 +82,7 @@
                 122
             ],
             "flags": {},
-            "order": 12,
+            "order": 8,
             "mode": 0,
             "inputs": [
                 {
@@ -144,7 +144,7 @@
                 246
             ],
             "flags": {},
-            "order": 18,
+            "order": 16,
             "mode": 0,
             "inputs": [
                 {
@@ -173,7 +173,7 @@
                 26
             ],
             "flags": {},
-            "order": 19,
+            "order": 17,
             "mode": 0,
             "inputs": [
                 {
@@ -212,7 +212,7 @@
                 246
             ],
             "flags": {},
-            "order": 20,
+            "order": 18,
             "mode": 0,
             "inputs": [
                 {
@@ -241,7 +241,7 @@
                 186
             ],
             "flags": {},
-            "order": 22,
+            "order": 20,
             "mode": 0,
             "inputs": [
                 {
@@ -365,7 +365,7 @@
                 46
             ],
             "flags": {},
-            "order": 28,
+            "order": 26,
             "mode": 0,
             "inputs": [
                 {
@@ -409,7 +409,7 @@
                 262
             ],
             "flags": {},
-            "order": 25,
+            "order": 23,
             "mode": 0,
             "inputs": [
                 {
@@ -510,7 +510,7 @@
                 46
             ],
             "flags": {},
-            "order": 23,
+            "order": 21,
             "mode": 0,
             "inputs": [
                 {
@@ -553,7 +553,7 @@
                 46
             ],
             "flags": {},
-            "order": 13,
+            "order": 9,
             "mode": 0,
             "inputs": [
                 {
@@ -596,13 +596,13 @@
                 218
             ],
             "flags": {},
-            "order": 10,
+            "order": 3,
             "mode": 0,
             "inputs": [
                 {
                     "name": "image",
                     "type": "IMAGE",
-                    "link": 89
+                    "link": null
                 }
             ],
             "outputs": [
@@ -656,7 +656,7 @@
                 164.31304931640625
             ],
             "flags": {},
-            "order": 16,
+            "order": 14,
             "mode": 0,
             "inputs": [
                 {
@@ -704,7 +704,7 @@
                 58
             ],
             "flags": {},
-            "order": 3,
+            "order": 4,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -737,7 +737,7 @@
                 82
             ],
             "flags": {},
-            "order": 14,
+            "order": 10,
             "mode": 0,
             "inputs": [
                 {
@@ -780,7 +780,7 @@
                 146
             ],
             "flags": {},
-            "order": 30,
+            "order": 28,
             "mode": 0,
             "inputs": [
                 {
@@ -837,7 +837,7 @@
                 246
             ],
             "flags": {},
-            "order": 29,
+            "order": 27,
             "mode": 0,
             "inputs": [
                 {
@@ -866,7 +866,7 @@
                 246
             ],
             "flags": {},
-            "order": 31,
+            "order": 29,
             "mode": 0,
             "inputs": [
                 {
@@ -895,7 +895,7 @@
                 138
             ],
             "flags": {},
-            "order": 33,
+            "order": 31,
             "mode": 0,
             "inputs": [
                 {
@@ -970,7 +970,7 @@
                 98
             ],
             "flags": {},
-            "order": 4,
+            "order": 5,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -1024,7 +1024,7 @@
                 58
             ],
             "flags": {},
-            "order": 8,
+            "order": 12,
             "mode": 0,
             "inputs": [
                 {
@@ -1065,7 +1065,7 @@
                 262
             ],
             "flags": {},
-            "order": 34,
+            "order": 32,
             "mode": 0,
             "inputs": [
                 {
@@ -1128,7 +1128,7 @@
             "flags": {
                 "collapsed": false
             },
-            "order": 17,
+            "order": 15,
             "mode": 0,
             "inputs": [
                 {
@@ -1178,7 +1178,7 @@
             "flags": {
                 "collapsed": false
             },
-            "order": 9,
+            "order": 13,
             "mode": 0,
             "inputs": [
                 {
@@ -1218,7 +1218,7 @@
                 106
             ],
             "flags": {},
-            "order": 24,
+            "order": 22,
             "mode": 0,
             "inputs": [
                 {
@@ -1263,7 +1263,7 @@
                 82
             ],
             "flags": {},
-            "order": 21,
+            "order": 19,
             "mode": 0,
             "inputs": [
                 {
@@ -1304,7 +1304,7 @@
                 58
             ],
             "flags": {},
-            "order": 15,
+            "order": 11,
             "mode": 0,
             "inputs": [
                 {
@@ -1345,7 +1345,7 @@
                 246
             ],
             "flags": {},
-            "order": 26,
+            "order": 24,
             "mode": 0,
             "inputs": [
                 {
@@ -1374,7 +1374,7 @@
                 46
             ],
             "flags": {},
-            "order": 27,
+            "order": 25,
             "mode": 0,
             "inputs": [
                 {
@@ -1417,7 +1417,7 @@
                 46
             ],
             "flags": {},
-            "order": 32,
+            "order": 30,
             "mode": 0,
             "inputs": [
                 {
@@ -1460,7 +1460,7 @@
                 46
             ],
             "flags": {},
-            "order": 35,
+            "order": 33,
             "mode": 0,
             "inputs": [
                 {
@@ -1505,7 +1505,7 @@
                 246
             ],
             "flags": {},
-            "order": 36,
+            "order": 34,
             "mode": 0,
             "inputs": [
                 {
@@ -1534,7 +1534,7 @@
                 196.48919677734375
             ],
             "flags": {},
-            "order": 11,
+            "order": 6,
             "mode": 0,
             "inputs": [
                 {
@@ -1543,7 +1543,7 @@
                     "widget": {
                         "name": "text"
                     },
-                    "link": 90
+                    "link": null
                 }
             ],
             "outputs": [
@@ -1580,7 +1580,7 @@
                 78
             ],
             "flags": {},
-            "order": 37,
+            "order": 35,
             "mode": 0,
             "inputs": [
                 {
@@ -1627,7 +1627,7 @@
                 246
             ],
             "flags": {},
-            "order": 40,
+            "order": 38,
             "mode": 0,
             "inputs": [
                 {
@@ -1684,7 +1684,7 @@
                 78.00605773925781
             ],
             "flags": {},
-            "order": 38,
+            "order": 36,
             "mode": 0,
             "inputs": [
                 {
@@ -1731,7 +1731,7 @@
                 246
             ],
             "flags": {},
-            "order": 42,
+            "order": 40,
             "mode": 0,
             "inputs": [
                 {
@@ -1760,7 +1760,7 @@
                 246
             ],
             "flags": {},
-            "order": 41,
+            "order": 39,
             "mode": 0,
             "inputs": [
                 {
@@ -1789,7 +1789,7 @@
                 246
             ],
             "flags": {},
-            "order": 39,
+            "order": 37,
             "mode": 0,
             "inputs": [
                 {
@@ -1810,15 +1810,15 @@
             "id": 55,
             "type": "DetailTransfer",
             "pos": [
-                2913.28857421875,
-                1779.2618408203125
+                4014.877197265625,
+                1817.6209716796875
             ],
             "size": [
                 315,
                 146
             ],
             "flags": {},
-            "order": 43,
+            "order": 41,
             "mode": 0,
             "inputs": [
                 {
@@ -1866,15 +1866,15 @@
             "id": 56,
             "type": "RestoreDetail",
             "pos": [
-                3327.37158203125,
-                1800.298583984375
+                4428.96044921875,
+                1838.65771484375
             ],
             "size": [
                 315,
                 150
             ],
             "flags": {},
-            "order": 44,
+            "order": 42,
             "mode": 0,
             "inputs": [
                 {
@@ -1916,15 +1916,15 @@
             "id": 57,
             "type": "LayerColor: ColorAdapter",
             "pos": [
-                3707.7265625,
-                1838.5400390625
+                4809.3154296875,
+                1876.899169921875
             ],
             "size": [
                 315,
                 78
             ],
             "flags": {},
-            "order": 46,
+            "order": 44,
             "mode": 0,
             "inputs": [
                 {
@@ -1964,15 +1964,15 @@
             "id": 58,
             "type": "Image Blend",
             "pos": [
-                4070.591064453125,
-                1838.3226318359375
+                5172.18017578125,
+                1876.6817626953125
             ],
             "size": [
                 315,
                 78
             ],
             "flags": {},
-            "order": 48,
+            "order": 46,
             "mode": 0,
             "inputs": [
                 {
@@ -1991,8 +1991,7 @@
                     "name": "image",
                     "type": "IMAGE",
                     "links": [
-                        87,
-                        88
+                        87
                     ],
                     "slot_index": 0
                 }
@@ -2011,15 +2010,15 @@
             "id": 60,
             "type": "PreviewImage",
             "pos": [
-                3738.521240234375,
-                2005.06005859375
+                4840.10986328125,
+                2043.41943359375
             ],
             "size": [
                 210,
                 246
             ],
             "flags": {},
-            "order": 49,
+            "order": 47,
             "mode": 0,
             "inputs": [
                 {
@@ -2040,15 +2039,15 @@
             "id": 61,
             "type": "PreviewImage",
             "pos": [
-                3365.98193359375,
-                2023.9107666015625
+                4467.57080078125,
+                2062.27001953125
             ],
             "size": [
                 210,
                 246
             ],
             "flags": {},
-            "order": 47,
+            "order": 45,
             "mode": 0,
             "inputs": [
                 {
@@ -2069,15 +2068,15 @@
             "id": 62,
             "type": "PreviewImage",
             "pos": [
-                2923.27197265625,
-                1995.213623046875
+                4024.860595703125,
+                2033.5728759765625
             ],
             "size": [
                 210,
                 246
             ],
             "flags": {},
-            "order": 45,
+            "order": 43,
             "mode": 0,
             "inputs": [
                 {
@@ -2098,15 +2097,15 @@
             "id": 63,
             "type": "SaveImage",
             "pos": [
-                4096.37939453125,
-                2013.6217041015625
+                5197.96826171875,
+                2051.98095703125
             ],
             "size": [
                 315,
                 58
             ],
             "flags": {},
-            "order": 50,
+            "order": 48,
             "mode": 0,
             "inputs": [
                 {
@@ -2122,118 +2121,6 @@
             },
             "widgets_values": [
                 "ComfyUI"
-            ]
-        },
-        {
-            "id": 64,
-            "type": "FSSaveImage",
-            "pos": [
-                4592.61474609375,
-                2041.72998046875
-            ],
-            "size": [
-                315,
-                154
-            ],
-            "flags": {},
-            "order": 51,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "images",
-                    "type": "IMAGE",
-                    "link": 88
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "filepath",
-                    "type": "STRING",
-                    "links": null
-                }
-            ],
-            "properties": {
-                "aux_id": "FlowScale-AI/flowscale-nodes",
-                "ver": "ae4978f9f330c1436efba9bf2411dc0ce7c20bd5",
-                "Node name for S&R": "FSSaveImage"
-            },
-            "widgets_values": [
-                "FlowScale",
-                "png",
-                "Output Image",
-                95,
-                false
-            ]
-        },
-        {
-            "id": 65,
-            "type": "FSLoadImage",
-            "pos": [
-                277.8594665527344,
-                1762.79248046875
-            ],
-            "size": [
-                315,
-                318
-            ],
-            "flags": {},
-            "order": 5,
-            "mode": 0,
-            "inputs": [],
-            "outputs": [
-                {
-                    "name": "image",
-                    "type": "IMAGE",
-                    "links": [
-                        89
-                    ],
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "aux_id": "FlowScale-AI/flowscale-nodes",
-                "ver": "ae4978f9f330c1436efba9bf2411dc0ce7c20bd5",
-                "Node name for S&R": "FSLoadImage"
-            },
-            "widgets_values": [
-                "example.png",
-                "image",
-                "Input Product Image"
-            ]
-        },
-        {
-            "id": 66,
-            "type": "FSLoadText",
-            "pos": [
-                -262.6473083496094,
-                1234.0048828125
-            ],
-            "size": [
-                400,
-                200
-            ],
-            "flags": {},
-            "order": 6,
-            "mode": 0,
-            "inputs": [],
-            "outputs": [
-                {
-                    "name": "text",
-                    "type": "STRING",
-                    "links": [
-                        90
-                    ],
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "aux_id": "FlowScale-AI/flowscale-nodes",
-                "ver": "ae4978f9f330c1436efba9bf2411dc0ce7c20bd5",
-                "Node name for S&R": "FSLoadText"
-            },
-            "widgets_values": [
-                "",
-                "Background Prompt"
             ]
         }
     ],
@@ -2829,30 +2716,6 @@
             63,
             0,
             "IMAGE"
-        ],
-        [
-            88,
-            58,
-            0,
-            64,
-            0,
-            "IMAGE"
-        ],
-        [
-            89,
-            65,
-            0,
-            24,
-            0,
-            "IMAGE"
-        ],
-        [
-            90,
-            66,
-            0,
-            47,
-            0,
-            "STRING"
         ]
     ],
     "groups": [
@@ -2977,8 +2840,8 @@
             "id": 10,
             "title": "Image Restoration and Blending",
             "bounding": [
-                2870.994873046875,
-                1688.9805908203125,
+                3972.58349609375,
+                1727.3397216796875,
                 1591.642578125,
                 601.4513549804688
             ],
@@ -2990,10 +2853,10 @@
     "config": {},
     "extra": {
         "ds": {
-            "scale": 1.1,
+            "scale": 0.26333125430607984,
             "offset": [
-                348.52781037275685,
-                -1105.2488359269257
+                1048.041738831611,
+                -372.9413435508309
             ]
         }
     },
